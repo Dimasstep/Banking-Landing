@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@700&family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@700&family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.title__logo1 {
+    font-family: 'Bai Jamjuree';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+
+.title__logo_two {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+
+}
+
+.meduim {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+   
+.list__block {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+
+.one__block {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* font-family: 'Bai Jamjuree', sans-serif;
+  font-family: 'Roboto', sans-serif; */
+
